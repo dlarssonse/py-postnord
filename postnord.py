@@ -7,8 +7,6 @@ import sys
 import openpyxl
 import requests
 
-from pathlib import Path
-
 
 def main(xlsx_file):
     # Variables for column positions
